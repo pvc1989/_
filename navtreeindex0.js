@@ -1,12 +1,20 @@
 var NAVTREEINDEX0 =
 {
-"dir_d44c64559bbebec7f509842c48db8b23.html":[0,0,0],
-"files.html":[0,0],
-"foo_8hpp.html":[0,0,0,0],
-"foo_8hpp.html#a5c94b9f7f5a541e1f071b7864ede5679":[0,0,0,0,0],
-"foo_8hpp_source.html":[0,0,0,0],
-"globals.html":[0,1,0],
-"globals_func.html":[0,1,1],
+"dir_d44c64559bbebec7f509842c48db8b23.html":[1,0,0],
+"files.html":[1,0],
+"foo_8hpp.html":[1,0,0,0],
+"foo_8hpp.html#a5c94b9f7f5a541e1f071b7864ede5679":[1,0,0,0,0],
+"foo_8hpp_source.html":[1,0,0,0],
+"globals.html":[1,1,0],
+"globals_func.html":[1,1,1],
 "index.html":[],
+"math_8hpp.html":[1,0,0,1],
+"math_8hpp.html#add4e9ac5180f3dc46043a6a6695d97b7":[1,0,0,1,0],
+"math_8hpp_source.html":[1,0,0,1],
+"namespacemembers.html":[0,1,0],
+"namespacemembers_func.html":[0,1,1],
+"namespacepvc.html":[0,0,0],
+"namespacepvc.html#add4e9ac5180f3dc46043a6a6695d97b7":[0,0,0,0],
+"namespaces.html":[0,0],
 "pages.html":[]
 };
