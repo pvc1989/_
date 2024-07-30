@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['hypot2_2',['hypot2',['../namespacepvc.html#add4e9ac5180f3dc46043a6a6695d97b7',1,'pvc']]]
+  ['b_1',['B',['../classpvc_1_1B.html',1,'pvc']]]
 ];

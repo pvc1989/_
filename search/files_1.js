@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['math_2ehpp_7',['math.hpp',['../math_8hpp.html',1,'']]]
+  ['foo_2ehpp_14',['foo.hpp',['../foo_8hpp.html',1,'']]]
 ];
